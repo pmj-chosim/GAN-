@@ -1,7 +1,7 @@
 # GAN-
 ## 세션 2 : GAN기반 이미지 생성과 생성 이미지 신뢰도 예측
 
-* 실습 자료는 '실습자료.pdf'를 참고하시면 됩니다.
+* 실습 자료는 ['실습자료.pdf'](https://github.com/pmj-chosim/GAN-/blob/main/%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C.pdf)를 참고하시면 됩니다.
   <p></p>
 * 실습 시간표
 
